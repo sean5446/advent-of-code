@@ -1,3 +1,3 @@
-module github.com/sean5446/advent-of-code-go
+module aoc
 
-go 1.21.4
+go 1.22.2
